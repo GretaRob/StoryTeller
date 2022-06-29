@@ -58,7 +58,8 @@ CSS
 
 ## Screenshots  
 
-  ![alt text](https://github.com/GretaRob/StoryTeller/blob/main/screenshot1.PNG)
-  ![alt text](https://github.com/GretaRob/StoryTeller/blob/main/screenshot2.PNG)
+  ![alt text](https://github.com/GretaRob/StoryTeller/blob/main/screenshot1.png)
+  ![alt text](https://github.com/GretaRob/StoryTeller/blob/main/screenshot2.png)
+  
 
 
