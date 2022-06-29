@@ -2,11 +2,11 @@
 
 ## Project Description
 
-Front-end websited for posting your stories. It was built using Javascript, React library. You can create stories, delete them and add them to favorites list.
+Front-end website for posting your stories. It was built using Javascript and React library. You can create stories, delete them and add them to favorites list.
 
 *****
 
-## SetUp Instruction
+## Set Up Instruction
 
 ### Requirements
 
@@ -28,9 +28,10 @@ Front-end websited for posting your stories. It was built using Javascript, Reac
 * Open the folder location on terminal and use the following command to run app:
 
 > npm install
+
 > npm start
 
-Runs the app in the development mode.\
+It runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
